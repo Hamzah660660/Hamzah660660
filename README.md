@@ -1,4 +1,3 @@
-
 ## 👨‍💻 Flutter Developer | Mobile App Enthusiast | DSA & LeetCode Contributor
 
 - 📱 Building smart and user-friendly mobile applications using Flutter & Dart.
@@ -23,7 +22,6 @@
       <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" width="100" height="50">
     </td>
     <td>
-      <!-- Add any tools you use, e.g., VS Code, Git -->
       <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" width="100" height="50">
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" width="100" height="50">
     </td>
@@ -34,14 +32,14 @@
 
 ### 🔥 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaAshraf&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzah660660&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
 
 ### 📈 GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaAshraf&theme=react&hide_border=true" alt="GitHub Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzah660660&theme=react&hide_border=true" alt="GitHub Activity">
 </p>
 
 ---
