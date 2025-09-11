@@ -1,4 +1,4 @@
-## 👨‍💻 Flutter Developer | Mobile App Enthusiast | DSA & LeetCode Contributor
+## 👨‍💻 Flutter Developer | Mobile App Enthusiast | DSA & OOP
 
 - 📱 Building smart and user-friendly mobile applications using Flutter & Dart.
 - 💻 Passionate about learning new technologies and improving coding skills.
