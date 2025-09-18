@@ -27,6 +27,3 @@ I enjoy turning ideas into reality with **Flutter, Dart, and Firebase**.
 ### 🤝 Connect With Me  
 - 📧 Email: [hamzahashraf660@gmail.com](mailto:hamzahashraf660@gmail.com)  
 - 💼 LinkedIn: [Hamza Ashraf](https://www.linkedin.com/in/hamza-ashraf-20a40826b/)  
-
-### ⚡ Fun Fact  
-I debug faster when I’m listening to good music 🎧.  
