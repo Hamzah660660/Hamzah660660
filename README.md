@@ -33,12 +33,17 @@
 ---
 
 ### 🔥 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzah660660&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=Hamzah660660&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamzah660660&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamzah660660&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hamzah660660&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
