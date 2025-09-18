@@ -1,59 +1,32 @@
-## 👨‍💻 Flutter Developer | Mobile App Enthusiast | DSA & OOP
+# Hi there, I'm Hamza 👋  
 
-- 📱 Crafting **smart, scalable, and user-friendly** mobile apps with **Flutter & Dart**  
-- 💻 Passionate about **problem-solving, DSA, and writing clean code**  
-- 🚀 Continuously learning, exploring **new technologies**, and improving coding skills  
+## 🚀 Flutter Developer  
+*Converting coffee into code and ideas into apps.*  
 
----
+### 🧑‍💻 About Me  
+I’m a passionate **Flutter Developer** who loves building clean, modern, and user-friendly mobile apps.  
+I enjoy turning ideas into reality with **Flutter, Dart, and Firebase**.  
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hamza-ashraf-20a40826b)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Hamzah660660)
+### 🛠 Tech Stack  
+- **Languages & Frameworks**: Flutter, Dart  
+- **Backend & Services**: Firebase  
+- **Other Interests**: Mobile UI/UX, App Optimization  
 
----
+### 🌱 Current Focus  
+- Building cross-platform mobile apps with **Flutter & Firebase**  
+- Exploring **app performance & scalability**  
 
-### 🧰 My Skill Set
-<table>
-  <tr>
-    <td><b>Languages & Frameworks</b></td>
-    <td><b>Tools & Platforms</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" width="110" height="40">
-      <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" width="100" height="40">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" width="140" height="40">
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" width="100" height="40">
-    </td>
-  </tr>
-</table>
+### 📂 Featured Projects  
+- 🚧 *Add your top repositories here with links*  
 
----
+### 📊 GitHub Stats  
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzah660660&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=hamzah660660&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzah660660&layout=compact&theme=tokyonight)  
 
-### 🔥 GitHub Stats
+### 🤝 Connect With Me  
+- 📧 Email: [hamzahashraf660@gmail.com](mailto:hamzahashraf660@gmail.com)  
+- 💼 LinkedIn: [Hamza Ashraf](https://www.linkedin.com/in/hamza-ashraf-20a40826b/)  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hamzah660660&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamzah660660&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hamzah660660&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzah660660&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
-</p>
-
----
-
-✨ Thanks for visiting my profile!  
-💡 Let’s connect, collaborate, and build something amazing with **Flutter** 🚀
+### ⚡ Fun Fact  
+I debug faster when I’m listening to good music 🎧.  
