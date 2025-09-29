@@ -16,9 +16,6 @@ I enjoy turning ideas into reality with **Flutter, Dart, and Firebase**.
 - Building cross-platform mobile apps with **Flutter & Firebase**  
 - Exploring **app performance & scalability**  
 
-### 📂 Featured Projects  
-- 🚧 *Add your top repositories here with links*  
-
 ### 📊 GitHub Stats  
 ![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzah660660&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=hamzah660660&theme=tokyonight)  
