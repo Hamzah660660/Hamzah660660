@@ -1,4 +1,4 @@
-# Hi there, I'm Hamza👋  
+# Hi there, I'm Hamza
 
 ## 🚀 Flutter Developer  
 *Converting coffee into code and ideas into apps.*  
